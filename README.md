@@ -46,7 +46,7 @@ Key techniques used:
 ## About Me
  
 I have been working at State Street for 14 years in fund accounting and financial reporting.  
-I passed the Microsoft PL-300 exam on March 2026. In 2025 I started building a data analytics portfolio.  
+In 2025 I started building a data analytics portfolio, and in March 2026 I passed the Microsoft PL-300 exam.
 I am looking for my first role as a Data Analyst or BI Analyst.
  
 📫 [LinkedIn](https://www.linkedin.com/in/agnieszka-poznanska-b8594a196/)
