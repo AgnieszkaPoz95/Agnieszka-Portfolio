@@ -25,7 +25,7 @@ Key techniques used:
 - Drillthrough page navigation for country-level analysis
 - Advanced visuals: Waterfall chart, Streamgraph, Treemap, KPI gauges
 - Interactive slicers, filled maps with conditional formatting
-👉 [View project](./powerbi-sales-dashboard/)
+👉 [View project](./powerbi-sales-report/)
  
 ---
 
