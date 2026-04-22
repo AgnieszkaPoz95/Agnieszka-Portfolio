@@ -21,9 +21,9 @@ product trends, customer demographics, and regional profitability (2005–2008).
 Key techniques used:
 - Snowflake schema data model with custom tables
   (Geography, CategSubcateg) created via query merging
-- DAX Time Intelligence measures: `SAMEPERIODLASTYEAR`, `TOTALYTD`, `CALCULATE`
+- DAX: `CALCULATE`, Time Intelligence measures: `SAMEPERIODLASTYEAR`, `TOTALYTD`
 - Drillthrough page navigation for country-level analysis
-- Advanced visuals: Waterfall chart, Streamgraph, Treemap, KPI gauges
+- Advanced visuals: Waterfall chart, Funnel chart, Treemap, KPI
 - Interactive slicers, filled maps with conditional formatting
 👉 [View project](./powerbi-sales-report/)
  
