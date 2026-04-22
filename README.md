@@ -5,7 +5,7 @@ Currently expanding into data analytics with a focus on SQL, Power BI, and data 
  
 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
 🛠️ **Tools:** Power BI · Power Query · DAX · MySQL · Excel  
-🌍 **Languages:** English · French · Spanish  
+🌍 **Languages:** Polish · English · French · Spanish  
  
 ---
  
