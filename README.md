@@ -1,7 +1,3 @@
-
-Readme · MD
-Copy
-
 # Agnieszka Poznańska – Data Analytics Portfolio
  
 **Financial & Data Analyst** with 14+ years of experience in financial services (investment funds, NAV, reporting).  
@@ -14,8 +10,27 @@ Currently expanding into data analytics with a focus on SQL, Power BI, and data 
 ---
  
 ## Projects
+
+### 1. 📊 Adventure Works – Sales Analytics Dashboard in Power BI
+**Tools:** Power BI · Power Query · DAX · Excel
+**Dataset:** Adventure Works (Microsoft sample dataset)
  
-### 1. 🧹 World Layoffs – Data Cleaning in SQL
+Built a 5-page interactive dashboard analyzing sales performance,
+product trends, customer demographics, and regional profitability (2005–2008).
+ 
+Key techniques used:
+- Snowflake schema data model with custom tables
+  (Geography, CategSubcateg) created via query merging
+- DAX Time Intelligence measures: `SAMEPERIODLASTYEAR`, `TOTALYTD`, `CALCULATE`
+- Drillthrough page navigation for country-level analysis
+- Advanced visuals: Waterfall chart, Streamgraph, Treemap, KPI gauges
+- Interactive slicers, filled maps with conditional formatting
+👉 [View project](./powerbi-sales-dashboard/)
+ 
+---
+
+ 
+### 2. 🧹 World Layoffs – Data Cleaning in SQL
 **Tools:** MySQL · MySQL Workbench  
 Cleaned and standardized a real-world dataset of 2,000+ global tech layoffs (2020–2023).  
  
