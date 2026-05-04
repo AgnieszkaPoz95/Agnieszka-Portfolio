@@ -42,7 +42,26 @@ Key techniques used:
 👉 [View project](./sql-layoffs-project/)
  
 ---
- 
+
+
+### 3. 📈 World Layoffs – Exploratory Data Analysis in SQL
+**Tools:** MySQL · MySQL Workbench  
+**Dataset:** World Layoffs (Kaggle, 2020–2023)
+
+Performed exploratory data analysis on a cleaned dataset of global tech layoffs to identify trends, rank top affected companies and industries, and detect waves of workforce reductions over time.
+
+Key techniques used:
+- Window Functions: `SUM() OVER()` for rolling totals
+- Ranking with `DENSE_RANK()` and `PARTITION BY` for Top 5 per year
+- Multi-step CTE chains for complex analysis
+- Date functions (`YEAR()`, `SUBSTRING()`) and aggregations
+- Top N pattern
+
+👉 [View project](./sql-layoffs-eda-project/)
+
+---
+
+
 ## About Me
  
 I have been working at State Street for 14 years in fund accounting and financial reporting.  
